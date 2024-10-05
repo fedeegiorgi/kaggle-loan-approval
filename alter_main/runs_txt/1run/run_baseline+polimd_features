@@ -1,0 +1,435 @@
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9502
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9503
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9504
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9502
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9501
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9503
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9501
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9502
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9517
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9522
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9524
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9525
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9513
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9517
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9526
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=3, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9523
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9419
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9417
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9478
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9478
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9414
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9420
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9469
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9464
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9453
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9447
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9495
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9500
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9445
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9442
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9490
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=9, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9497
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9408
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9414
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9471
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9475
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9410
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9409
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9468
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9471
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9433
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9432
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9482
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9494
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9432
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9434
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9480
+
+Testing params: n_estimators=1500, learning_rate=0.1, max_depth=15, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9489
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9519
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9518
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9517
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9518
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9516
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9518
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9515
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9516
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9528
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9529
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9527
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9527
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9529
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9528
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9526
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=3, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9527
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9447
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9440
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9488
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9488
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9447
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9441
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9486
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9484
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9472
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9473
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9505
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9512
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9471
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9467
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9506
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=9, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9509
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9430
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9427
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9484
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9484
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9429
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9428
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9481
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9482
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9456
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9454
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9494
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9499
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9457
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9451
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9494
+
+Testing params: n_estimators=1500, learning_rate=0.05, max_depth=15, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9500
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9419
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9415
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9419
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9415
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9422
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9419
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9421
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9418
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9420
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9417
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9419
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9416
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9420
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9417
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9420
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=3, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9417
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9493
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9494
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9503
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9505
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9492
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9494
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9501
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9502
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9504
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9506
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9512
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9517
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9502
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9505
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9512
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=9, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9514
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9464
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.7, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9462
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9491
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.7, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9495
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9459
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.7, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9461
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9489
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.7, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9492
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9480
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.9, colsample_bytree=0.7, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9479
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9501
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.9, colsample_bytree=0.7, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9507
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9477
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.9, colsample_bytree=0.9, gamma=0, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9478
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=0.5
+Mean ROC_AUC Score across folds: 0.9499
+
+Testing params: n_estimators=1500, learning_rate=0.01, max_depth=15, subsample=0.9, colsample_bytree=0.9, gamma=1.5, reg_lambda=2
+Mean ROC_AUC Score across folds: 0.9506
+
+Best model saved to 'best_xgb_model.pkl'
+Best ROC_AUC: 0.9529
+Best Parameters: {'objective': 'binary:logistic', 'eval_metric': 'auc', 'n_estimators': 1500, 'learning_rate': 0.05, 'max_depth': 3, 'subsample': 0.9, 'colsample_bytree': 0.7, 'gamma': 0, 'reg_lambda': 2, 'tree_method': 'hist', 'device': 'cuda'}
